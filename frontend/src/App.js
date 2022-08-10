@@ -1,8 +1,6 @@
 import React from 'react';
-//import './App.css';
 import {useSelector} from 'react-redux';
 import Login from './Views/Login/login';
-/* import authSlice from './Controllers/Redux/authSlice'; */
 
 
 function App() {
