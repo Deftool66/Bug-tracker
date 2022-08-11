@@ -1,3 +1,8 @@
+#2nd video done ,now we need to start with the pt2 update
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
